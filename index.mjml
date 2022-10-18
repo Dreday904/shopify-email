@@ -61,6 +61,9 @@
         background-color: black;
       }
     </mj-style>
+    <mj-raw>
+      <link href="https://postimg.cc/gallery/8ScNpZq">
+    </mj-raw>
   </mj-head>
   <!-- mj-body is the 600px container -->
   <mj-body background-color="#f2f2f2">
@@ -83,7 +86,7 @@
       <!-- THREE LINE DIVIDER -->
             <mj-section background-color="#ffffff">
                 <mj-column>
-                    <mj-image padding="0" src="assets/3-lines.png">
+                    <mj-image padding="0" src="https://i.postimg.cc/7YRkHXMV/3-lines.png">
                 </mj-column>
             </mj-section>
 
@@ -91,7 +94,7 @@
       <!-- 2 COLUMN IMAGE WITH TEXT -->
       <mj-section background-color="#ffffff">
         <mj-column>
-          <mj-image href="https://shopify.com/blog" padding-bottom="20px" src="assets/image.jpg" />
+          <mj-image href="https://shopify.com/blog" padding-bottom="20px" src="https://i.postimg.cc/vTSpmH9B/image.jpg"/>
         </mj-column>
         <mj-column>
           <mj-text color="#004c3f" font-size="24px" font-weight="bold" padding-bottom="20px">
@@ -110,7 +113,7 @@
       <!-- THREE LINE DIVIDER -->
             <mj-section background-color="#ffffff">
                 <mj-column>
-                    <mj-image padding="0" src="assets/3-lines.png">
+                    <mj-image padding="0" src="https://i.postimg.cc/7YRkHXMV/3-lines.png">
                 </mj-column>
             </mj-section>
 
