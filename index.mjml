@@ -53,7 +53,7 @@
       }
 
       .footer {
-        background-image: url('assets/bg-colors.png');
+        background-image: url('https://i.postimg.cc/Qtm2Rqdc/bg-colors.png');
         background-size: 600px;
       }
 
@@ -71,7 +71,7 @@
       <!-- header -->
         <mj-section css-class="header section-padding">
             <mj-column>
-                <mj-image alt="shopify logo" href="https://shopify.com" width="121px" align="left" src="assets/logo.png">
+                <mj-image alt="shopify logo" href="https://shopify.com" width="121px" align="left" src="https://i.postimg.cc/7hLFDT5d/logo.png">
             </mj-column>
         </mj-section>
       <!-- TOP SECTION  -->
@@ -130,10 +130,10 @@
       <mj-section background-color="#ffffff" padding="0">
         <mj-group>
           <mj-column padding="0">
-            <mj-image padding="0 5px" align="right" href="https://apple.com" src="assets/appstore.png" width="150px" height="43px" />
+            <mj-image padding="0 5px" align="right" href="https://apple.com" src="https://i.postimg.cc/YSfZWxgT/appstore.png" width="150px" height="43px" />
           </mj-column>
           <mj-column padding="0">
-            <mj-image padding="0 5px" align="left" href="https://apple.com" src="assets/android.png" width="150px" height="43px" />
+            <mj-image padding="0 5px" align="left" href="https://apple.com" src="https://i.postimg.cc/7L8r76RJ/android.png" width="150px" height="43px" />
           </mj-column>
         </mj-group>
       </mj-section>
@@ -144,25 +144,25 @@
   <mj-section padding="0">
     <mj-group css-class="icons-size">
       <mj-column padding="0">
-        <mj-image padding="0 5px" href="https://facebook.com/shopify" src="/assets/fb.png" width="27px" height="27px" alt="facebook" />
+        <mj-image padding="0 5px" href="https://facebook.com/shopify" src="https://i.postimg.cc/dVTKLd5K/fb.png" width="27px" height="27px" alt="facebook" />
       </mj-column>
       <mj-column padding="0">
-        <mj-image padding="0 5px" href="https://twitter.com/shopify" src="/assets/tw.png" width="27px" height="27px" alt="twitter" />
+        <mj-image padding="0 5px" href="https://twitter.com/shopify" src="https://i.postimg.cc/8P92QcNX/tw.png" width="27px" height="27px" alt="twitter" />
       </mj-column>
       <mj-column padding="0">
-        <mj-image padding="0 5px" href="https://instagram.com/shopify" src="/assets/insta.png" width="27px" height="27px" alt="instagram" />
+        <mj-image padding="0 5px" href="https://instagram.com/shopify" src="https://i.postimg.cc/ZRJk7Q4T/insta.png" width="27px" height="27px" alt="instagram" />
       </mj-column>
       <mj-column padding="0">
-        <mj-image padding="0 5px" href="https://snapchat.com/shopify" src="/assets/snap.png" width="27px" height="27px" alt="snapchat" />
+        <mj-image padding="0 5px" href="https://snapchat.com/shopify" src="https://i.postimg.cc/5N6hRLdF/snap.png" width="27px" height="27px" alt="snapchat" />
       </mj-column>
       <mj-column padding="0">
-        <mj-image padding="0 5px" href="https://linkedin.com/shopify" src="/assets/in.png" width="27px" height="27px" alt="linkedin" />
+        <mj-image padding="0 5px" href="https://linkedin.com/shopify" src="https://i.postimg.cc/mrYfS4xX/in.png" width="27px" height="27px" alt="linkedin" />
       </mj-column>
       <mj-column padding="0">
-        <mj-image padding="0 5px" href="https://pinterest.com/shopify" src="/assets/pin.png" width="27px" height="27px" alt="pinterest" />
+        <mj-image padding="0 5px" href="https://pinterest.com/shopify" src="https://i.postimg.cc/WpWR8SKv/pin.png" width="27px" height="27px" alt="pinterest" />
       </mj-column>
       <mj-column padding="0">
-        <mj-image padding="0 5px" href="https://youtube.com/shopify" src="/assets/yt.png" width="27px" height="27px" alt="youtube" />
+        <mj-image padding="0 5px" href="https://youtube.com/shopify" src="https://i.postimg.cc/8zvq1GCp/yt.png" width="27px" height="27px" alt="youtube" />
       </mj-column>
 
     </mj-group>
